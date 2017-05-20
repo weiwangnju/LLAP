@@ -14,6 +14,8 @@ For more details, please check [our paper](https://cs.nju.edu.cn/ww/papers/mobic
 
 Our work is reported by MIT TECH REVIEW: ["This App Lets You Control Your Phone Using Sonar"](https://www.technologyreview.com/s/602834/this-app-lets-you-control-your-phone-using-sonar/).
 
+![llapfly](https://github.com/Samsonsjarkal/KeSun/blob/master/img/llapfly.gif?raw=true)
+
 ## How to use it
 The way to use 'LLAP' is to add class `AudioController` and `RangeFinder` to your IOS project. An instance of class `AudioController` is needed to be add to your project.
 In the interface of `AudioController`, the property `audiodistance` is the distance of the movement.
@@ -63,6 +65,11 @@ MIT license.
 copyright (c) 2017 Nanjing University rights reserved.
 
 ## Contact
+More than our own work, we are excited about others using our work to advance the state of the art. If our work helps you in your work or you want to cooperate with us, please let us know (kesun@smail.nju.edu.cn) and cite [our paper](https://cs.nju.edu.cn/ww/papers/mobicom16_ultrasound.pdf).
+
 GitHub:[https://github.com/Samsonsjarkal](https://github.com/Samsonsjarkal/LLAP)
 
 Email:kesun@smail.nju.edu.cn;ww@nju.edu.cn;alexliu@cse.msu.edu
+
+## Reference
+Wei Wang, Alex X. Liu, and Ke Sun. Device-free gesture tracking using acoustic signals. In Proceedings of ACM MobiCom, 2016
